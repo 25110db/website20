@@ -1,0 +1,18 @@
+body{font-family:Comic Sans MS; margin:0;}
+nav,main,footer{padding:10px;}
+a{color:black;}
+a:hover{background-color:yellow;}
+a:active{background-color:red;}
+
+/* NAVBAR */
+nav{background-color:red;}
+nav a{background-color:yellow; color:black; font-weight:bold; text-decoration:none; font-size:22px; margin:0 2.5px 0 2.5px; padding:2.5px 5px 2.5px 5px; }
+nav a:hover{background-color:black; color:yellow;}
+nav a:active{background-color:blue; color:yellow;}
+
+/* MAIN */
+main{background-color:lime;}
+
+/* FOOTER */
+footer{background-color:blue;}
+footer p{color:white; font-weight:bolder;}
