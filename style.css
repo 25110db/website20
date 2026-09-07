@@ -1,4 +1,4 @@
-body{font-family:Comic Sans MS; margin:0;}
+body{font-family:Comic Sans MS; margin:0; image-rendering:pixelated;}
 nav,main,footer{padding:10px;}
 a{color:black;}
 a:hover{background-color:yellow;}
